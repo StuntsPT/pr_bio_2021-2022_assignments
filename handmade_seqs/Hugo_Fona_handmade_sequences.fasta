@@ -1,0 +1,31 @@
+DNA sequence with ambiguities #1:
+ATGTGBATACDTAGRTBGTGA
+
+DNA sequence without ambiguities #1:
+ATGTGTATACTTAGATTGTGA
+
+DNA sequence without ambiguities #2:
+ATGTGTATACATAGCTAGTGA
+
+DNA sequence without ambiguities #3:
+ATGAGTACAGATCGCTACTGA
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Reverse of sequence #3:
+AGTCATCGCTAGACATGAGTA
+
+Complement of sequence #3:
+TACTCATGTCTAGCGATGACT
+
+Complement of reverse sequence #1:
+TCAGTAGCGATCTGTACTCAT
+
+Amino-acid chain of sequence #3:
+ATG AGT ACA GAT CGC TAC TGA
+
+AUG AGU ACA GAU CGC UAC UGA
+
+Met Ser Thr Asp Arg Tyr 
+
+M   S   T   D   R   Y
+
+MSTDRY
